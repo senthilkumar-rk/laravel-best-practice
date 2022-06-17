@@ -1,4 +1,4 @@
-![Laravel best practices](/images/logo-english.png?raw=true)
+![Laravel best practices](/logo-english.png?raw=true)
 
 Translations:
 ## Contents
