@@ -1,6 +1,6 @@
 ![Laravel best practices](/logo-english.png?raw=true)
 
-Translations:
+
 ## Contents
 
 [Single responsibility principle](#single-responsibility-principle)
